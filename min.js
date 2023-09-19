@@ -1,5 +1,17 @@
 const min = function(numbers) {
   // Write code here that returns the smallest value in numbers
+  
+  let newNum = numbers[0]
+  for (number of numbers) {
+    if (number < newNum) {
+      newNum = number
+    }
+  }
+
+  
+
+  return newNum
+
 }
 
 
